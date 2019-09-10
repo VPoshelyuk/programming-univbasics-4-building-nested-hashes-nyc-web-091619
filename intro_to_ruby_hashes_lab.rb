@@ -31,7 +31,8 @@ def monopoly_with_third_tier
 	      :adsd => 4,
 	      :dsf => 5,
 	      :s => 6
-	    }
+	    },
+	    :names => {}
 	  }
 	}
 end
