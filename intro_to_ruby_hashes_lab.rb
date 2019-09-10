@@ -32,7 +32,12 @@ def monopoly_with_third_tier
 	      :dsf => 5,
 	      :s => 6
 	    },
-	    :names => {}
+	    :names => {
+	      :johns => 234,
+	      :stevens => 2324,
+	      :alexeys => 657,
+	      :jacks => 26453
+	    }
 	  }
 	}
 end
