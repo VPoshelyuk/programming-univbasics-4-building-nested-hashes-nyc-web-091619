@@ -64,10 +64,10 @@ def monopoly_with_fourth_tier
 	        "mortgage_value" => "$200"
 	      },
 	      :b_and_o_railroad => {
-	        "mortgage_value" => "$300"
+	        "mortgage_value" => "$400"
 	      },
 	      :shortline_railroad => {
-	        "mortgage_value" => "$100"
+	        "mortgage_value" => "$800"
 	      }
 	    }
 	  }
