@@ -29,8 +29,8 @@ def monopoly_with_third_tier
 	    :rent_in_dollars => {
 	      :1 => 3,
 	      :2 => 4,
-	      :3 => 3,
-	      :4 => 3
+	      :3 => 5,
+	      :4 => 6
 	    }
 	  }
 	}
